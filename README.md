@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, World!<br><br>🌟Building the future, one line of code at a time!🌟<br><br>💻Experienced in Java with MySQL<br>📱Currently developing Flutter applications<br>🌐Diving headfirst into PHP!<br><br>✨Happy Coding!✨<br>
+👋 Hello, World!<br><br>🌟Building the future, one line of code at a time!🌟<br>📱Currently developing Flutter applications with Firebase<br>🌐Intermediate with PHP!<br><br>🔖Diving headfirst in Javascript with React js<br><br>💻Experience in Java with MySQL<br><br>✨Happy Coding!✨<br>
 
 
 ## 🌐 Socials:
